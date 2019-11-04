@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Catch The Penguins</string>
+    <string name="app_title">Catch The Penguins!</string>
+    <string name="game_over">Game Over</string>
+    <string name="exit">Exit</string>
+    <string name="rules">Rules</string>
+    <string name="rules_content">Mission - complete 10 levels.\n\nRules:\n1. catch 10 penguins to get to the next level\n2. if you go to the next level, get one life\n3. if you lose one penguin - minus one life\n4. overshoot - minus 5 points</string>
+    <string name="help_ok">OK</string>
+    <string name="you_win">You Win!</string>
+    <string name="high_score">High Score: </string>
+    <string name="level">Level: </string>
+    <string name="reset_game">New Game</string>
+    <string name="win_title">You Win. Congratulation!</string>
+    <string name="get_score">I scored points %1$d in the game "Catch The Penguins"</string>
+    <string name="win_text">I won the game "Catch The Penguins and scored points %1$d</string>
+    <string name="score">Score: </string>
+    <string name="start_game">Start Game</string>
+    <string name="lifes">Lifes</string>
+    <string name="untoched">Untoched</string>
+    <string name="share">Share</string>
+    <string name="share_title">Select the variant</string>
+    <string name="score_text">My Score Is: </string>
+</resources>

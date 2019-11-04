@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Catch The Penguins</string>
+    <string name="app_title">Поймай Пенгвинов!</string>
+    <string name="game_over">Игра окончена</string>
+    <string name="exit">Выйти</string>
+    <string name="rules">Правила</string>
+    <string name="rules_content">Миссия - пройти 10 уровней.\n\nПравила:\n1. поймаете 10 пингвинов, что бы попасть на следующий уровень\n2. если перейдёте на следующий уровень, получите одну жизнь\n3. потеряете одного пингвина - минус одна жизнь\n4. промахнетесь - минус 5 очков</string>
+    <string name="help_ok">Понятно</string>
+    <string name="you_win">Вы победили!</string>
+    <string name="high_score">Рекорд: </string>
+    <string name="level">Уровень: </string>
+    <string name="reset_game">Играть Снова</string>
+    <string name="win_title">Вы победили. Поздравляем!</string>
+    <string name="get_score">Я набрал %1$d очков в игре "Catch The Penguins"</string>
+    <string name="win_text">Я выиграл в игре "Сatch The Penguins" и набрал %1$d очков</string>
+    <string name="score">Текущий Счет: </string>
+    <string name="start_game">Играть</string>
+    <string name="lifes">Жизни</string>
+    <string name="untoched">Untoched</string>
+    <string name="share">Поделиться</string>
+    <string name="share_title">Выберите вариант</string>
+    <string name="score_text">Мой результат: </string>
+</resources>
